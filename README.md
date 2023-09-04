@@ -8,9 +8,9 @@ Apenas as instruções de instalação dos programas que foram testados com suce
 
 # Máquina de testes
 
-| Sistema operativo | Processador                              | Placa gráfica              |
-|-------------------|------------------------------------------|----------------------------|
-| Arch Linux        | Intel(R) Core(TM) i7-4770S CPU @ 3.10GHz | NVIDIA GeForce GTX 1050 Ti |
+| Sistema operativo | Processador                              | Placa gráfica              | RAM                |
+|-------------------|------------------------------------------|----------------------------|--------------------|
+| Arch Linux        | Intel(R) Core(TM) i7-4770S CPU @ 3.10GHz | NVIDIA GeForce GTX 1050 Ti | 16GB DDR3 1600 MHz |
 
 ## Programas
 
