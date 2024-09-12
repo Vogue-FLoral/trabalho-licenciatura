@@ -176,6 +176,7 @@ Como podemos observar, uma base de dados de tal tamanho requer uma máquina com 
 ### Deepfake detect
 
 Embora o programa seja acessível através de [um website](https://deepfake-detect.com) este não funciona corretamente. Após o envio de uma imagem, o servidor no qual este se encontra alojado enviava uma resposta com o código de erro 502. O que significa que existe um problema de rede por parte do servidor.
+P.s: Em junho de 2024, já foi possível acessar ao website e utilizar o programa. Nas análises realizadas, já não apareceu o erro mencionado anteriormente.
 
 Além disso, as instruções que se encontram no repositório não explicam como usar o programa para detetar imagens ou vídeos manipulados com técnicas de Deepfake.
 
